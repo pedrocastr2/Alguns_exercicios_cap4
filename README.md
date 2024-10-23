@@ -4,9 +4,13 @@ As atividades do capítulo 4 que é focado em loops, as quais são exemplos das 
 
 Exemplo:
 //import turtle
+
 //t = turtle.Pen()
+
 //for x in range(4):
+ 
   //t.circle(100)
+   
    // t.left(90)
 
 

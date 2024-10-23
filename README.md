@@ -5,4 +5,8 @@ Exemplo:
 //for x in range(4):
   //t.circle(100)
    // t.left(90)
+
+
+
+   
 ![image](https://github.com/user-attachments/assets/03199e3d-dd02-4f4d-a414-59fa4170a9ca)

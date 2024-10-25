@@ -14,6 +14,7 @@ Exemplo:
 
 //number_of_circles = int(turtle.numinput("Numero de circulos","Qual número circles de sua rossete",6))
 
+
 //for x in range(number_of_circles):
    
     //t.pencolor(colors[x % len(colors)])
@@ -29,3 +30,41 @@ Exemplo:
 
    
 ![image](https://github.com/user-attachments/assets/03199e3d-dd02-4f4d-a414-59fa4170a9ca)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atividade da página 105 , que se utiliza de dois loops ,criando essa bela figura:
+
+![image](https://github.com/user-attachments/assets/05df7663-a270-4360-af42-7737a83fa571)

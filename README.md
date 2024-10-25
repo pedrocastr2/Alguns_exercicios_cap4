@@ -1,4 +1,4 @@
-As atividades do capítulo 4 que é focado em loops, as quais são exemplos das páginas 88,91,94,103 que se utilizam comandos for e while , para um ciclo de uma atividade sendo até que a condição seja satisfeita. 
+As atividades do capítulo 4 que é focado em loops, as quais são exemplos das páginas 88,91,94,105 que se utilizam comandos for e while , para um ciclo de uma atividade sendo até que a condição seja satisfeita. 
 
 
 
